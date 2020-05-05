@@ -1,2 +1,2 @@
 # linelogin
-line login
+Log on method by using line acct.
